@@ -4,4 +4,4 @@ AI and Robotics
 Energy
 Fusion?
 Quantum Computers?
-Avoid saturated and deflated and inflaged market
+Avoid saturated and deflated and inflated market
