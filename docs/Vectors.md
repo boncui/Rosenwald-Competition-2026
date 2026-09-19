@@ -92,7 +92,7 @@ Tradeoff: this gives up the **$10K data-driven/quant prize** as a target. The **
 | Vector | What to avoid inside it | What survives the filter |
 |---|---|---|
 | War / political tension | Defense-stock momentum, oil or gold direction calls, sanctioned assets. The 2026 Iran conflict is already priced | Specific mispriced names hit by second-order effects (supply-chain relocation, reshoring, insurers, shipping routes) with a floor and a catalyst |
-| AI solving hard equations | Hype pure-plays, and consensus AI mega-caps | Knudsen's "babies thrown out with the bathwater": cash-flowing incumbents wrongly sold as AI losers, or owner-operated suppliers at reasonable multiples (Dalton's own framing) |
+| AI solving hard equations | Hype pure-plays, and consensus AI mega-caps | Knudsen's "babies thrown out with the bathwater": cash-flowing incumbents wrongly sold as AI losers, or owner-operated suppliers at reasonable multiples (Dalton's own framing). **Worked up in [Vectors_Cryptography.md](Vectors_Cryptography.md)** — Navier-Stokes was dropped (a regularity proof has no economic transmission), and the vector was redirected to cryptography, the one branch of mathematics whose unsolved status is load-bearing for the economy |
 | AI & Robotics | Humanoid-robot pure-plays, pre-revenue names | Profitable component or automation suppliers, possibly non-US (Japan/Korea/Taiwan fits Rosenwald), with FX addressed |
 | Energy | Upstream E&P, oil-price calls, LNG names the judges own | Power/grid or infrastructure cash flows with a specific event, or credit (Dinan: "good businesses with bad balance sheets") |
 | Fusion? | Every listed pure-play (pre-revenue) | Only profitable suppliers where fusion is optional upside, not the thesis |
